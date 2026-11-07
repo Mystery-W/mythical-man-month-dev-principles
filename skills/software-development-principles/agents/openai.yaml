@@ -1,0 +1,4 @@
+interface:
+  display_name: "程序员的软件开发原则"
+  short_description: "结合《人月神话》与个人开发教训，检查工程决策、版本管理和交付行为"
+  default_prompt: "请用 $software-development-principles 检查我当前的软件开发计划或改动，指出最值得注意的行为风险、适用条件、具体改进动作与验证方式。"

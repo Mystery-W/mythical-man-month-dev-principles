@@ -1,0 +1,14 @@
+# Source book, extraction, rendering QA, and local publication helpers.
+.reading/
+*.epub
+*.pdf
+__pycache__/
+*.pyc
+~$*
+.env
+.env.*
+.credentials*
+
+# Preserve the original local deliverables outside the public notes directory.
+/*.docx
+/*.html
